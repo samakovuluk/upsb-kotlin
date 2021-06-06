@@ -22,3 +22,33 @@ You can download apk for android, and test it. ![demo](https://github.com/samako
 
 <img src="photo_2021-06-06_11-55-15.jpg" height="500px">&nbsp;&nbsp;&nbsp;<img src="photo_2021-06-06_12-55-15.jpg" height="500px">&nbsp;&nbsp;&nbsp;<img src="photo_2021-06-06_11-45-15.jpg" height="500px">
 
+
+
+## :gift_heart: Сollaborators
+The project UPSB is created by these developers.
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/samakovuluk"><img src="https://avatars.githubusercontent.com/u/35860953?v=4" width="100px" alt=""/><br><sub><b>Samakov Ulukbek</b></sub>
+      </a>
+    <br>
+      <p>Software Engineer</p>
+      <a href="https://www.linkedin.com/in/ulukbek-samakov/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt=""/><br>
+      </a>
+    </td>
+    <td align="center"><a href="https://github.com/akimberl"><img src="https://avatars.githubusercontent.com/u/67225394?v=4" width="100px" alt=""/><br><sub><b>Burbu </b></sub></a>
+      <br>
+     <p>Frontend Developer</p>
+      <a href="https://www.linkedin.com/in/burbu-kuular-67013310a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt=""/><br>
+      </a>
+    </td>
+    <td align="center"><a href="https://github.com/arishonochek"><img src="https://avatars.githubusercontent.com/u/85416431?v=4" width="100px" alt=""/><br><sub><b>Arina </b></sub></a>
+          <br>
+     <p>Ui/Ux Designer</p>
+      <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt=""/><br>
+      </a>
+    </td>
+  </tr>
+  
+</table>
+
